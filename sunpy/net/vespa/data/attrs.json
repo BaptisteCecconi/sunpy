@@ -1,0 +1,9 @@
+{
+  "AJ4CO-DSP": "ivo://pds-ppi/radiojove_aj4co_dps/ppi/epn_core",
+  "AJ4CO-FS200": "ivo://pds-ppi/radiojove_aj4co_fs200/ppi/epn_core",
+  "CO-RPWS-ELC-DEN": "ivo://pds-ppi/cassini_rpws_electron_density/ppi/epn_core",
+  "ExPRES": "ivo://vopdc.obspm/lesia/maser/expres/epn",
+  "NDA": "ivo://vopdc.obspm/usn/nda/epn",
+  "CO-RPWS-HFR-QTN": "ivo://pds-ppi/cassini_rpws_hfr_qtn/ppi/epn_core",
+  "RADIOJOVE-MTSU": "ivo://pds-ppi/radiojove_mtsu_fsx6sraw/ppi/epn_core"
+}
